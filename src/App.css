@@ -598,7 +598,7 @@
 .card-image{
   overflow: hidden;
   position: relative;
-  height: 200px;
+  height: 160px;
 }
 @media only screen and (max-width: 600px) {
   .card-image {
